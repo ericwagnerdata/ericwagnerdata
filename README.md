@@ -31,9 +31,3 @@ restaurants, destinations, baby names. Built in JavaScript.
 **Data Tools:** dbt · BigQuery · Redshift · Airflow  
 **Viz & BI:** Tableau · Looker  
 **Other:** Raspberry Pi · 3D Printing · Laser Engraving
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwagnerdata&show_icons=true&theme=shadow_blue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwagnerdata&theme=shadow_blue)](https://github.com/ericwagnerdata)
