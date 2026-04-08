@@ -1,49 +1,39 @@
-# Hi there 👋 I'm Eric!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ecwagner/)
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">](https://www.linkedin.com/in/ecwagner/)
+# Hi, I'm Eric Wagner
 
-## About Me 😁
-- Based out of Tampa, Florida
-- Data Analyst [@pelotoncycle](https://www.onepeloton.com/)
+Staff Data Analyst at Peloton (Quality Strategy & Analytics) — I turn messy 
+data into decisions using SQL, Python, dbt, BigQuery, Looker, and Tableau.
+I also build things: web tools, hardware projects, and the occasional 
+3D printed something.
 
+📍 Tampa, FL &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ECWagner)
 
-## GitHub Stats
-![](https://visitor-badge.laobi.icu/badge?page_id=ericwagnergithub.ericwagnergithub)
-[![Github](https://img.shields.io/github/followers/ericwagnergithub?label=Follow&style=social)](https://github.com/ericwagnergithub)
+---
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwagnergithub&show_icons=true&theme=shadow_blue )
+## 🛠 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwagnergithub&theme=shadow_blue  )
+### [eink-todoist](https://github.com/ericwagnerdata/eink-todoist)
+A Raspberry Pi Zero 2W powered e-ink dashboard displaying Todoist tasks, 
+weather, and calendar — with scheduled refresh and quiet hours. Built in Python.
 
-## Languages and Tools 💪
+### [pick_a_movie](https://github.com/ericwagnerdata/pick_a_movie)
+A web app that helps you stop arguing about what to watch. Rank and eliminate 
+options through a simple pairwise interface. Built in JavaScript.
 
-### Languages:
-| Python |
-|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+### [help_me_decide](https://github.com/ericwagnerdata/help_me_decide)
+A mobile-friendly pairwise comparison tool for decisions big and small — 
+restaurants, destinations, baby names. Built in JavaScript.
 
+---
 
-### Data Visualization:
-| Tableau Certified | Looker | Excel Guru |
-|-------------------|--------|------------|
-|  |  |  |
+## 💡 Skills
 
+**Languages:** SQL · Python · JavaScript  
+**Data Tools:** dbt · BigQuery · Redshift · Airflow  
+**Viz & BI:** Tableau · Looker  
+**Other:** Raspberry Pi · 3D Printing · Laser Engraving
 
-### Data Transformation:
-| Alteryx Certified | DBT |
-|-------------------|-----|
-|  |  |
+---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwagnerdata&show_icons=true&theme=shadow_blue)
 
-## I'm Currently Improving At 🧠
-- [Python Fundamentals](https://github.com/ericwagnergithub/100-days-of-python)
-  
-## I Want To Learn More About 🏫
-- Web Applications
-- Web Design
-- AI/ML Applications
-
-## I Love 💙
-- 3D Printing
-- Entrepreneurship
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwagnerdata&theme=shadow_blue)](https://github.com/ericwagnerdata)
