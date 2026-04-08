@@ -30,4 +30,5 @@ restaurants, destinations, baby names. Built in JavaScript.
 **Languages:** SQL · Python · JavaScript  
 **Data Tools:** dbt · BigQuery · Redshift · Airflow  
 **Viz & BI:** Tableau · Looker  
-**Other:** Raspberry Pi · 3D Printing · Laser Engraving
+**AI Tools:** Claude Code · ChatGPT · Gemini  
+**Maker:** Raspberry Pi · 3D Printing · Laser Engraving
