@@ -17,7 +17,7 @@ I also build things: web tools, hardware projects, and the occasional
 
 ### [toaster-oven-oracle](https://github.com/ericwagnerdata/toaster-oven-oracle)
 
-A local retrieval-augmented generation (RAG) system for the Breville BOV900 toaster oven manual. Ask cooking questions and get answers with page citations — a learning project built end-to-end from a naive baseline up.
+A local retrieval-augmented generation (RAG) system for the Breville BOV900 toaster oven manual. Ask cooking questions and get answers with page citations. A learning project built end-to-end from a naive baseline up.
 
 <img src="https://raw.githubusercontent.com/ericwagnerdata/toaster-oven-oracle/main/web/assets/oracle-altar.png" alt="Toaster Oven Oracle altar" width="100%" />
 
@@ -26,7 +26,7 @@ A local retrieval-augmented generation (RAG) system for the Breville BOV900 toas
 
 ### [career-ops](https://github.com/ericwagnerdata/career-ops)
 
-An AI-powered job search system that turns any AI coding CLI into a full job search command center — evaluating offers with structured scoring, generating tailored resumes, and scanning job portals automatically.
+An AI-powered job search system that turns any AI coding CLI into a full job search command center. It evaluates offers with structured scoring, generates tailored resumes, and scans job portals automatically.
 
 <img src="https://raw.githubusercontent.com/ericwagnerdata/career-ops/main/docs/screenshot.png" alt="Career Ops screenshot" width="100%" />
 
@@ -46,9 +46,9 @@ An easy way to write up LinkedIn recommendations for colleagues who deserve it. 
 
 ### [eink-todoist](https://github.com/ericwagnerdata/eink-todoist)
 
-A Raspberry Pi Zero 2W powered e-ink dashboard displaying Todoist tasks, weather, and calendar — with scheduled refresh and quiet hours. Built in Python.
+A Raspberry Pi Zero 2W powered e-ink dashboard displaying Todoist tasks, weather, and calendar, with scheduled refresh and quiet hours. Built in Python, with custom-designed 3D printed mounts for the hardware.
 
-<!-- <img src="REPLACE_WITH_RAW_IMAGE_URL" alt="eink-todoist" width="100%" /> -->
+<img src="https://raw.githubusercontent.com/ericwagnerdata/eink-todoist/main/docs/images/dashboard.png" alt="eink-todoist dashboard" width="100%" />
 
 </td>
 </tr>
