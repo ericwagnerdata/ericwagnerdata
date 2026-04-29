@@ -1,11 +1,21 @@
 # Hi, I'm Eric Wagner
 
-Staff Data Analyst at Peloton (Quality Strategy & Analytics) — I turn messy 
-data into decisions using SQL, Python, dbt, BigQuery, Looker, and Tableau.
-I also build things: web tools, hardware projects, and the occasional 
-3D printed something.
+Staff Data Analyst at Peloton. I turn messy data into decisions using SQL,
+Python, dbt, BigQuery, Looker, and Tableau. Outside of work I build a lot
+of things: AI tools and RAG systems, web apps, e-ink hardware projects,
+3D printed designs, and the occasional laser-engraved something.
 
 📍 Tampa, FL &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ECWagner)
+
+---
+
+## 💡 Skills
+
+**Languages:** SQL · Python · JavaScript
+**Data Tools:** dbt · BigQuery · Redshift · Airflow
+**Viz & BI:** Tableau · Looker
+**AI Tools:** Claude Code · ChatGPT · Gemini
+**Maker:** 3D Printing · Laser Engraving · Raspberry Pi
 
 ---
 
@@ -53,13 +63,3 @@ A Raspberry Pi Zero 2W powered e-ink dashboard displaying Todoist tasks, weather
 </td>
 </tr>
 </table>
-
----
-
-## 💡 Skills
-
-**Languages:** SQL · Python · JavaScript
-**Data Tools:** dbt · BigQuery · Redshift · Airflow
-**Viz & BI:** Tableau · Looker
-**AI Tools:** Claude Code · ChatGPT · Gemini
-**Maker:** 3D Printing · Laser Engraving · Raspberry Pi
